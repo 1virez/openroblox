@@ -1,3 +1,7 @@
-# openroblox
-A collection of Open Source Roblox Scripts that I have made.
-These scripts are licensed under the Apache 2.0 License, see more on the License tab.
+# OpenRoblox
+
+## What is OpenRoblox?
+OpenRoblox is a GitHub repository featuring both stable and unstable Open Source Free Use Scripts that you are free to download and reuse/modify in your own games.
+
+## What do I have to do in order to use the scripts?
+Please, only merely credit me somewhere in your game that is easily accessible to all players. I ask of nothing more.
