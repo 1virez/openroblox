@@ -1,4 +1,5 @@
-# OpenRoblox
+# OpenRoblox (STABLE)
+### This is the STABLE branch, and only includes versions of my scripts that have been tested enough for stability and performance to be considered stable.
 
 ## What is OpenRoblox?
 OpenRoblox is a GitHub repository featuring both stable and unstable Open Source Free Use Scripts that you are free to download and reuse/modify in your own games.
